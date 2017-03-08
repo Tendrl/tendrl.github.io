@@ -24,7 +24,7 @@ guides to install both bridges and use one instance of Tendrl to view it all
 in one place.
 
 ### [Instructions for Ceph Storage](https://github.com/Tendrl/ceph_bridge/blob/master/doc/source/installation.rst) | [Instructions for Gluster Storage](https://github.com/Tendrl/gluster_bridge/blob/master/doc/source/installation.rst) 
-### [Packages](https://copr.fedorainfracloud.org/coprs/tendrl/tendrl/) | [Ansible Installation](https://github.com/Tendrl/tendrl-ansible/)
+### [Package Installation](https://github.com/Tendrl/documentation/wiki/Tendrl-Package-Installation-Reference) | [Ansible Installation](https://github.com/Tendrl/tendrl-ansible/)
 
 {% endcapture %}
 
